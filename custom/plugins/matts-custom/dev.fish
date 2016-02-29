@@ -1,3 +1,3 @@
 function dev
-	cd ~/Dev/WebDev
+	cd ~/Dev/
 end
